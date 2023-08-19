@@ -1,4 +1,4 @@
-# pid_controler
+# PID Controler
 
 ## pid_controller_grafik.py
 
